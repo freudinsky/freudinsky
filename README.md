@@ -6,7 +6,6 @@ Harnessing the potential of ADHD, this unique journey propelled me to thrive in 
 I hold a deep appreciation for technology and its potential to transform lives. Integrity, loyalty, and the responsible use of power for the betterment of society are values I prioritize. I am excited to connect, collaborate, and contribute in innovative ways that make a meaningful difference.
  🌟
 
-
 # 💻 Tech Stack:
 ## Languages
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -43,11 +42,10 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 - ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
 - ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
 - ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-021326.svg?style=flat-square&logo=davinciresolve&logoColor=white)
-
+- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 <br/>
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=freudinsky&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=freudinsky&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=freudinsky&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
