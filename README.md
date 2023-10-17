@@ -6,6 +6,30 @@ Harnessing the potential of ADHD, this unique journey propelled me to thrive in 
 I hold a deep appreciation for technology and its potential to transform lives. Integrity, loyalty, and the responsible use of power for the betterment of society are values I prioritize. I am excited to connect, collaborate, and contribute in innovative ways that make a meaningful difference.
  🌟
 
+# 🚀 Featured Projects
+
+## Shelterian
+**Description**: A centralized platform for all shelters to showcase animals, there are to adopt.
+**Technologies**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Next UI](https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js&logoColor=white)
+**Link**: Coming soon...
+
+![Shelterian](https://cdn.discordapp.com/attachments/633739133847863299/1163754003675492383/Work_in_progress..._1.png?ex=6540b95f&is=652e445f&hm=8d9472c638ffa7a3560c5f00d3afdc73141be07a890d023c524ef78326e417a7&)
+
+## PokkeFight (group project)
+**Description**: Small round-based browser-game where your selected Pokemon fights against the computer.
+**Technologies**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=API&logoColor=white)
+
+**Link**: [PokkeFight](https://poke-fight-new.vercel.app/)
+
+![PokkeFight](https://cdn.discordapp.com/attachments/633739133847863299/1163755196720095312/FireShot_Capture_002_-_PokkeFight_-_poke-fight-new.vercel.app_1.png?ex=6540ba7c&is=652e457c&hm=79ad1879577238c7acd97b2f52587342c3a43fb9152ed3c14c884299e02eff48&)
+## plotTWIST (group project)
+**Description**: Blog about our newest favourite movies - first development step included Contentful as headless CMS - in the second step we migrated the database into our own with own REST APIs.
+**Technologies**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![Contentful](https://img.shields.io/badge/Contentful-%2335495e?style=flat-square&logo=contentful&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=API&logoColor=white)
+
+**Link**: [plotTWIST](https://cms-exercise.vercel.app/)
+
+![plotTWIST](https://cdn.discordapp.com/attachments/633739133847863299/1163757656876523520/FireShot_Capture_003_-_plotTWIST_-_cms-exercise.vercel.app_1.png?ex=6540bcc6&is=652e47c6&hm=f6e7abfb7db700ec7838f238aee12f68bc74977b2b2d596f488697f7b8aaf870&)
+<br/>
 # 💻 Tech Stack:
 ## Languages
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -44,8 +68,8 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 - ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-021326.svg?style=flat-square&logo=davinciresolve&logoColor=white)
 - ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-<br/>
 
+<br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=freudinsky&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=freudinsky&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=freudinsky&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
