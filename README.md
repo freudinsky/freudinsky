@@ -29,8 +29,8 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 **Link**: [plotTWIST](https://cms-exercise.vercel.app/)
 
 ![plotTWIST](https://cdn.discordapp.com/attachments/633739133847863299/1163757656876523520/FireShot_Capture_003_-_plotTWIST_-_cms-exercise.vercel.app_1.png?ex=6540bcc6&is=652e47c6&hm=f6e7abfb7db700ec7838f238aee12f68bc74977b2b2d596f488697f7b8aaf870&)
-<br/>
----
+<br/><br/>
+
 
 # 💻 Tech Stack:
 ## Languages
