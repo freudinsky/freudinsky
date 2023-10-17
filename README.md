@@ -72,6 +72,7 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 - ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 <br/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=freudinsky&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=freudinsky&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=freudinsky&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
