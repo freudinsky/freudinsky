@@ -13,7 +13,7 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 **Technologies**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Next UI](https://img.shields.io/badge/next_ui-000000.svg?style=flat-square&logo=next.js&logoColor=white)<br/>
 **Link**: Coming soon...
 <br/>
-**GitHub**: [Frontend](https://github.com/freudinsky/shelterian_front) [Backend](https://github.com/freudinsky/shelterian_back)
+**GitHub**: 🖥️ [Frontend](https://github.com/freudinsky/shelterian_front) ⌨️ [Backend](https://github.com/freudinsky/shelterian_back)
 
 ![Shelterian](https://cdn.discordapp.com/attachments/633739133847863299/1163754003675492383/Work_in_progress..._1.png?ex=6540b95f&is=652e445f&hm=8d9472c638ffa7a3560c5f00d3afdc73141be07a890d023c524ef78326e417a7&)
 
@@ -23,7 +23,7 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 
 **Link**: 🎮 [PokkeFight](https://poke-fight-new.vercel.app/)
 <br/>
-**GitHub**: [Monorepo](https://github.com/freudinsky/PokeFight_New) 
+**GitHub**: 🖥️ [Monorepo](https://github.com/freudinsky/PokeFight_New) 
 
 ![PokkeFight](https://cdn.discordapp.com/attachments/633739133847863299/1163755196720095312/FireShot_Capture_002_-_PokkeFight_-_poke-fight-new.vercel.app_1.png?ex=6540ba7c&is=652e457c&hm=79ad1879577238c7acd97b2f52587342c3a43fb9152ed3c14c884299e02eff48&)
 ## 🎬plotTWIST (group project)
@@ -32,7 +32,7 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 
 **Link**: 🎬 [plotTWIST](https://cms-exercise.vercel.app/)
 <br/>
-**GitHub**: [Frontend](https://github.com/freudinsky/cms_exercise) [Backend](https://github.com/freudinsky/cms-exercise-api)
+**GitHub**: 🖥️ [Frontend](https://github.com/freudinsky/cms_exercise) ⌨️ [Backend](https://github.com/freudinsky/cms-exercise-api)
 
 ![plotTWIST](https://cdn.discordapp.com/attachments/633739133847863299/1163757656876523520/FireShot_Capture_003_-_plotTWIST_-_cms-exercise.vercel.app_1.png?ex=6540bcc6&is=652e47c6&hm=f6e7abfb7db700ec7838f238aee12f68bc74977b2b2d596f488697f7b8aaf870&)
 <br/><br/>
