@@ -26,7 +26,7 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 **Description**: Blog about our newest favourite movies - first development step included Contentful as headless CMS - in the second step we migrated the database into our own with own REST APIs.<br/>
 **Technologies**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![Contentful](https://img.shields.io/badge/Contentful-%2335495e?style=flat-square&logo=contentful&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=API&logoColor=white)<br/>
 
-**Link**: [plotTWIST](https://cms-exercise.vercel.app/)
+**Link**: 🎬 [plotTWIST](https://cms-exercise.vercel.app/)
 
 ![plotTWIST](https://cdn.discordapp.com/attachments/633739133847863299/1163757656876523520/FireShot_Capture_003_-_plotTWIST_-_cms-exercise.vercel.app_1.png?ex=6540bcc6&is=652e47c6&hm=f6e7abfb7db700ec7838f238aee12f68bc74977b2b2d596f488697f7b8aaf870&)
 <br/><br/>
