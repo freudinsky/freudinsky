@@ -10,7 +10,7 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 
 ## 🐕Shelterian
 **Description**: Central platform for animal shelters to upload animals available for adoption with filtering options based on the animals' characteristics and location.<br/>
-**Technologies**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Next UI](https://img.shields.io/badge/next_ui-000000.svg?style=flat-square&logo=next.js&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Used%20for%20Infrastructure-blue?style=flat-square)
+**Technologies**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Next UI](https://img.shields.io/badge/next_ui-000000.svg?style=flat-square&logo=next.js&logoColor=white) 
 
 <br/>
 **Link**: 🐕 Coming soon...
