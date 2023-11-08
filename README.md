@@ -17,7 +17,7 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 <br/>
 **GitHub**: 🖥️ [Frontend](https://github.com/freudinsky/shelterian_front) ⌨️ [Backend](https://github.com/freudinsky/shelterian_back)
 
-![Shelterian](https://cdn.discordapp.com/attachments/633739133847863299/1171843763354742804/image.png?ex=655e278c&is=654bb28c&hm=cba849e06b2a20eff6f37bacdfb548575eb21880a4d3b2e330c1e24659249073&)
+![Shelterian](https://cdn.discordapp.com/attachments/633739133847863299/1171844444274831450/image_1.png?ex=655e282f&is=654bb32f&hm=b5f8216d9aa9444975db95da3d933947a80e53b0cc3efa0b7a86d5f6f06995bd&)
 
 ## 🎮PokkeFight (group project)
 **Description**: Small round-based browser-game where your selected Pokemon fights against the computer.<br/>
