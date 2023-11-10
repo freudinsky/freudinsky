@@ -71,7 +71,7 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=trello&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-%232A5699.svg?style=flat-square&logo=asana&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=flat-square&logo=clickup&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-%23339933.svg?style=flat-square)
+![Nodemon](https://img.shields.io/badge/Nodemon-%23339933.svg?style=flat-square&logo=nodemon&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=flat-square&logo=jetbrains&logoColor=white)
