@@ -71,6 +71,7 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/render-%23404040.svg?style=flat-square&logo=render&logoColor=#6E46AE)
 
 ## Dev Tools
+![Node.js](https://img.shields.io/badge/Node.js-#339933?style=flat-square)
 ![Insomnia](https://img.shields.io/badge/Insomnia-%236468FF.svg?style=flat-square&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
