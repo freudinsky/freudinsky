@@ -55,11 +55,17 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=flat-square&logo=material-ui&logoColor=white) ![Next UI](https://img.shields.io/badge/next_ui-000000.svg?style=flat-square&logo=next.js&logoColor=white)
 
 ## Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23000000.svg?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23000000.svg?style=flat-square&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React%20Router-%2361DAFB.svg?style=flat-square&logo=react-router&logoColor=white)
+
+## Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
 
 ## Authentication
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![OAuth](https://img.shields.io/badge/oauth-%235F49FF.svg?style=flat-square&logo=oauth&logoColor=white) ![Bcrypt](https://img.shields.io/badge/bcrypt-%23932639.svg?style=flat-square&logo=bcrypt&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![OAuth](https://img.shields.io/badge/OAuth-%2320232a.svg?style=flat-square&logo=oauth&logoColor=white)
+ ![Bcrypt](https://img.shields.io/badge/bcrypt-%23932639.svg?style=flat-square&logo=bcrypt&logoColor=white)
 
 ## Cloud
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/render-%23404040.svg?style=flat-square&logo=render&logoColor=#6E46AE)
@@ -75,6 +81,8 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=flat-square&logo=jetbrains&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=flat-square&logo=node.js&logoColor=white)
+
 
 
 ## Creative Tools
