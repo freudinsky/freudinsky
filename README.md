@@ -24,7 +24,7 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 <br/>
 **GitHub**: 🖥️ [Frontend](https://github.com/freudinsky/shelterian_front) ⌨️ [Backend](https://github.com/freudinsky/shelterian_back)
 
-![Shelterian](https://cdn.discordapp.com/attachments/633739133847863299/1171844444274831450/image_1.png?ex=655e282f&is=654bb32f&hm=b5f8216d9aa9444975db95da3d933947a80e53b0cc3efa0b7a86d5f6f06995bd&)
+![Shelterian](https://cdn.discordapp.com/attachments/633739133847863299/1171844444274831450/image_1.png?ex=65f1d02f&is=65df5b2f&hm=4349aed6bb1dd37e0149ecfd181d2f6a43dc3a1f6bb5d7e59f56fdfea58b8cdd&)
 
 ## 🎮PokkeFight (group project)
 **Description**: Small round-based browser-game where your selected Pokemon fights against the computer.<br/> <br/>
@@ -34,7 +34,7 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 <br/>
 **GitHub**: 🖥️ [Monorepo](https://github.com/freudinsky/PokeFight_New) 
 
-![PokkeFight](https://cdn.discordapp.com/attachments/633739133847863299/1163755196720095312/FireShot_Capture_002_-_PokkeFight_-_poke-fight-new.vercel.app_1.png?ex=6540ba7c&is=652e457c&hm=79ad1879577238c7acd97b2f52587342c3a43fb9152ed3c14c884299e02eff48&)
+![PokkeFight](https://cdn.discordapp.com/attachments/633739133847863299/1163755196720095312/FireShot_Capture_002_-_PokkeFight_-_poke-fight-new.vercel.app_1.png?ex=65f94c7c&is=65e6d77c&hm=0b54a3f1cfde1621a4f3d406452f4eff61065b1ca43f80c1f1ebe964619be66f&)
 ## 🎬plotTWIST (group project)
 **Description**: Blog about our newest favourite movies - first development step included Contentful as headless CMS - in the second step we migrated the database into our own with own REST APIs.<br/> <br/>
 **Technologies**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.JS-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.JS-404d59?style=flat-square&logo=express&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![Contentful](https://img.shields.io/badge/Contentful-%2335495e?style=flat-square&logo=contentful&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=API&logoColor=white)<br/>
@@ -43,7 +43,7 @@ I hold a deep appreciation for technology and its potential to transform lives. 
 <br/>
 **GitHub**: 🖥️ [Frontend](https://github.com/freudinsky/cms_exercise) ⌨️ [Backend](https://github.com/freudinsky/cms-exercise-api)
 
-![plotTWIST](https://cdn.discordapp.com/attachments/633739133847863299/1163757656876523520/FireShot_Capture_003_-_plotTWIST_-_cms-exercise.vercel.app_1.png?ex=6540bcc6&is=652e47c6&hm=f6e7abfb7db700ec7838f238aee12f68bc74977b2b2d596f488697f7b8aaf870&)
+![plotTWIST](https://cdn.discordapp.com/attachments/633739133847863299/1163757656876523520/FireShot_Capture_003_-_plotTWIST_-_cms-exercise.vercel.app_1.png?ex=65f94ec6&is=65e6d9c6&hm=ffa2773196cb279f279df34807aa30f26a7740b0a797ac6e30af78a39c40be98&)
 <br/><br/>
 
 
